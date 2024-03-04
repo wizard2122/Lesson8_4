@@ -9,18 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 30a6dfa89980e79449e216028f99964b, type: 3}
-  m_Name: EnemyFactory
+  m_Script: {fileID: 11500000, guid: 9eab8835a4426274f9b98fb023137b18, type: 3}
+  m_Name: LargeEnemy
   m_EditorClassIdentifier: 
-  _small:
-    _prefab: {fileID: 0}
-    _health: 0
-    _speed: 0
-  _medium:
-    _prefab: {fileID: 0}
-    _health: 0
-    _speed: 0
-  _large:
-    _prefab: {fileID: 0}
-    _health: 0
-    _speed: 0
+  _prefab: {fileID: 8343465735195058528, guid: cf7d8526964e5fd4d82c7446f0019be1, type: 3}
+  _health: 9
+  _speed: 2
